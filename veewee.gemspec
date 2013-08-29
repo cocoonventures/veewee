@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.add_dependency "net-ssh", ">= 2.2.0"
 
   s.add_dependency "popen4", "~> 0.1.2"
-  s.add_dependency "thor", "~> 0.15"
+  s.add_dependency "thor", "~> 0.18.1"
   s.add_dependency "highline"
   s.add_dependency "json"
   #s.add_dependency "json", ">= 1.5.1", "< 1.8.0"
